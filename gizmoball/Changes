@@ -1,0 +1,4 @@
+Changes: 
+Added Gizmo Class
+Updated Ball to use gizmo class 
+Updated VerticalLine to use Gizmo Class
